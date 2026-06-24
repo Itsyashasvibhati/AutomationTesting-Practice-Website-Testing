@@ -112,9 +112,9 @@ The project focused on validating application functionality, user interface beha
 
 ---
 
-### Alerts Module Testing
+### Project Summary Report
 
-![Alerts Module](screenshots/alerts-module.png)
+![Alerts Module](https://github.com/Itsyashasvibhati/AutomationTesting-Practice-Website-Testing/blob/b2853d753f5f049c9fe336aee40b928cd3730bc8/Automation2.png)
 
 ---
 
