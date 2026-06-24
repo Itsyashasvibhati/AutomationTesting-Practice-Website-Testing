@@ -108,7 +108,7 @@ The project focused on validating application functionality, user interface beha
 
 ### Register Module Testing
 
-![Register Module](screenshots/register-module.png)
+![Register Module](https://github.com/Itsyashasvibhati/AutomationTesting-Practice-Website-Testing/blob/2c694f60fdcbff1c9c513cd1d0ae5680148e20e9/Automation2.png)
 
 ---
 
