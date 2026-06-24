@@ -20,6 +20,12 @@ The project focused on validating application functionality, user interface beha
 
 ---
 
+
+### Register Module Testing
+
+![Register Module](https://github.com/Itsyashasvibhati/AutomationTesting-Practice-Website-Testing/blob/2c694f60fdcbff1c9c513cd1d0ae5680148e20e9/Automation2.png)
+
+
 ## Modules Tested
 
 * Index
@@ -114,7 +120,7 @@ The project focused on validating application functionality, user interface beha
 
 ### Project Summary Report
 
-![Alerts Module](https://github.com/Itsyashasvibhati/AutomationTesting-Practice-Website-Testing/blob/b2853d753f5f049c9fe336aee40b928cd3730bc8/Automation2.png)
+![Alerts Module](https://github.com/Itsyashasvibhati/AutomationTesting-Practice-Website-Testing/blob/75a0dcd090f298b0a5e538b0846976ca116a3767/automation1.png)
 
 ---
 
